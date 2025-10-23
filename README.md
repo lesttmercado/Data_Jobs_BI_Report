@@ -12,3 +12,12 @@ Navigating the data job market can feel like a maze with information scattered e
    - **Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
    - **Map Charts:** For displaying geospatial data.
    - **Cards:** To highlight key performance indicators.
+   - **Tables:** For presenting detailed, tabular information.
+   - **Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
+- **Interactive Features:**
+   - **Slicers:** Enabling dynamic, user-driven data filtering.
+   - **Buttons & Bookmarks:** For streamlined navigation and managing report views (including Drill-Through).
+
+## Dashboard Overview
+This second iteration consolidates the dashboard into **a single, focused page,** designed to give job seekers the most critical market insights at their fingertips.
+
